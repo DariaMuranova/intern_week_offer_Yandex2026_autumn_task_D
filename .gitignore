@@ -1,0 +1,26 @@
+# Dataset and extracted caches
+data/
+*.csv
+*.npz
+
+# Model artifacts
+artifacts/
+*.pt
+*.pth
+*.ckpt
+
+# Notebook runtime files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Virtual environments and IDE files
+.venv/
+venv/
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
